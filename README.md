@@ -2,7 +2,7 @@
 
 Submitted by: **Abraham Syed**
 
-**Next up ** is a movie browsing app that allows users to browse ... [TODO] 
+**Next up ** is a movie browsing app that allows users to browse  the upcoming movies
 
 Time spent: **7** hours spent in total
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/programmersyed/Project4.kt/blob/main/Movie.gif' title='Next Up Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
@@ -42,6 +42,7 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+I didnt initially quite understand the serialization, so I asked the help channel for help.
 
 ## License
 
