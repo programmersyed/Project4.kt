@@ -42,7 +42,7 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
-I didnt initially quite understand the serialization, so I asked the help channel for help.
+I didnt initially quite understand the serialization, so I asked the help channel for help. I also was facing trouble in terms of understanding how everything was working, so the TA really helped me with that.
 
 ## License
 
