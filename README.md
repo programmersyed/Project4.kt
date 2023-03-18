@@ -1,6 +1,6 @@
 # Android Project 4 - *Next up*
 
-Submitted by: **Abraham Syed**
+Submitted by: **Ibrahim Syed**
 
 **Next up ** is a movie browsing app that allows users to browse  the upcoming movies
 
@@ -46,7 +46,7 @@ I didnt initially quite understand the serialization, so I asked the help channe
 
 ## License
 
-    Copyright [2023] [Abraham Syed]
+    Copyright [2023] [Ibrahim Syed]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
